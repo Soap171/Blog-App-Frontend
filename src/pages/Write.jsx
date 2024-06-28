@@ -85,7 +85,6 @@ function Write() {
           />
           <label htmlFor="file">Upload File</label>
           <div className="buttons">
-            <button>Save as a Draft </button>
             <button onClick={handleClick}>Publish</button>
           </div>
         </div>
